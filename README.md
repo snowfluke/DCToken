@@ -16,3 +16,4 @@ Get Discord Client Token
 2. Klik Gerigi
 3. Pilih Debug Add-ons
 4. Klik Load Temporary Add-ons
+5. Pilih manifest.json
