@@ -1,5 +1,5 @@
-# RokuyonGBD (Roku(6) Yon(4) Good Bye Decoder)
-Latar belakang masalah: Tiap kali klik link di web meownime.moe dialihkan ke shortlink
+# DCToken
+Get Discord Client Token
 
 # Instalasi
 
