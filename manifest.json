@@ -1,0 +1,22 @@
+{
+	"manifest_version": 2,
+
+	"name": "DCToken",
+	"version": "1.0.0",
+	"description": "Awal Ariansyah",
+
+	"content_scripts": [
+		{
+			"css": ["styles.css"],
+			"js": ["content.js"],
+			"matches": ["https://discord.com/*"]
+		}
+	],
+
+	"icons": {
+		"16": "yy16.png",
+		"48": "yy48.png",
+		"128": "yy128.png"
+	},
+	"permissions": ["clipboardRead"]
+}
